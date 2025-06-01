@@ -10,21 +10,21 @@ This repo provides a visual game interface, easy-to-use training process, and ea
 
 Enjoy yourself ~~~
 
-## 💥 Available now 💥
+## Available now 💥
 
 ![web](Image/Playing_screen.png)
 
 
-## 👣 Next step
+## Next step
 
-✅ Monte Carlo tree -> ✅ Visual game interface -> Custom battle.
+Monte Carlo tree -> Visual game interface -> Custom battle.
 
-## 📖 References & thanks
+## References & thanks
 
 About the algorithm, **Omega_Gomoku_AI** refers to this article: [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide/), written by [int8](https://github.com/int8).
 
 
-## 🏠 Code structure
+## Code structure
 
 - [testsettingy.py](Gomoku_Group_9/testsettingy.py) - Start the game, human vs AI, or human vs human.
 - [Function.py](Gomoku_Group_9/Function.py) - Some functions.
