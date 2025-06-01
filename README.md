@@ -10,7 +10,7 @@ This repo provides a visual game interface, easy-to-use training process, and ea
 
 Enjoy yourself ~~~
 
-## Available now 💥
+## Available now 
 
 ![web](Image/Playing_screen.png)
 
